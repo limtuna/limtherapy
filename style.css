@@ -15,9 +15,9 @@ body{
   }
   ol{
   border-right: 2px solid gray;
-  width:130px;
+  width:150px;
   margin:0;
-  padding: 10px;
+  padding: 5px;
 }
  #grid{
    display: grid;
@@ -25,7 +25,7 @@ body{
  }
 
  #grid ol{
-  padding-left: 33px;
+  padding-left: 20px;
   background-color: rgba(255, 20, 200, .1);
 }
   #grid #article{
